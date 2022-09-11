@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, Python, C#
 - 💞️ I’m looking to utilize my knowledge and experience from the Retail and Service Industries and to build new environments in
 which these interactions can occur.
-- 📫 How to reach me ...
+- 📫 You can reach me @ [LinkedIn](https://www.linkedin.com/in/auguste-bren-18b8b155/)
 
 <!---
 Augiedog/Augiedog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
