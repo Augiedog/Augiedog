@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Augiedog
-- 👀 I’m interested in Camping, getting outside, Electronics, Electric motors, Skateboards
+- 👀 I’m interested in Camping, getting outside, Electronics, Electric motors and Skateboards
 - 🌱 I’m currently learning JavaScript, Python, C#
 - 💞️ I’m looking to utilize my knowledge and experience from the Retail and Service Industries and to build new environments in
 which these interactions can occur.
